@@ -1,7 +1,7 @@
 # Lex-Programs
 
 
-| Name    | Nehal Khan |
+| Name    | Gokulakrisnan |
 | -------- | ------- |
 | Roll No  | CH.EN.U4CSE22022    |
 
